@@ -1,0 +1,24 @@
+*** LISTA
+*** GET
+
+- Returns all games in the collection
+- Params: none
+- Result: JSON
+- URL: "http://localhost:8888/gamesService/getList"
+
+
+*** CREAR
+*** POST
+
+- Creates new game into the collection
+- Params: JSON {
+	"id": "101",
+	"title": "Grand Theft Auto",
+	"name": "Rockstar Studio",
+	"description": “cars”,
+	"sDate": "06-29-2004",
+	"image": "http://vignette2.wikia.nocookie.net/es.gta/images/c/c2/Grand_Theft_Auto_San_Andreas.JPG/revision/latest?cb=20080911022541",
+	"console": "PS2"
+}
+- Result: JSON
+- URL: "http://localhost:8888/gamesService/create”
