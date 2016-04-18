@@ -5,3 +5,5 @@
 - Y que nombraron mal la tabla en todos los queries
 - Aparte de eso en la tabla usaron el nombre "titulo", pero usaban "title"
 - No removieron los trazos de lo que usaron como base para la aplicacion
+- Los nombres de las clases *siempre* inician con Mayusculas
+- Los namespaces siempre inician de izquierda a derecha, eso quiere decir "App/Services", no solo "Services", porque eso crea OTRO namespace distinto
