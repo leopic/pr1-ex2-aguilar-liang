@@ -4,7 +4,7 @@
 - Returns all games in the collection
 - Params: none
 - Result: JSON
-- URL: "http://localhost:8888/gamesService/getList"
+- URL: "http://localhost:8888/GamesService/getList"
 
 
 *** CREAR
@@ -21,4 +21,4 @@
 	"console": "PS2"
 }
 - Result: JSON
-- URL: "http://localhost:8888/gamesService/create”
+- URL: "http://localhost:8888/GamesService/create”

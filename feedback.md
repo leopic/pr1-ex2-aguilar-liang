@@ -1,0 +1,7 @@
+- El problema mas grande que tuvieron fue que usaron SLIM y no replicaron la estructura de archivos debidamente
+- Por eso las rutas no les funcionaban
+- Por eso no pudieron ver los errores de sintaxis
+- Tampoco darse cuenta que las validaciones fallaron
+- Y que nombraron mal la tabla en todos los queries
+- Aparte de eso en la tabla usaron el nombre "titulo", pero usaban "title"
+- No removieron los trazos de lo que usaron como base para la aplicacion
